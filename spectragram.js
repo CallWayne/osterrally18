@@ -171,7 +171,7 @@ if ( typeof Object.create !== "function" ) {
 
 					if ( isWrapperEmpty ) {
 						imageGroup.push( $element );
-'					} else {
+					} else {
 						imageGroup.push( $( this.options.wrapEachWith ).append( $element ) );
 					}
 				}
