@@ -216,7 +216,7 @@ if ( typeof Object.create !== "function" ) {
 
 	// Instagram Access Data
 	jQuery.fn.spectragram.accessData = {
-        accessToken: '4208728467.1677ed0.b3af60b394a54b62a714b7a233de89b0',
+        accessToken: '7f71ab4019584d16aaeeb8f9e04e7c63',
 		clientID: 'e23801b6e54847fbb0273c9e01cb0e6e'
     };
 
